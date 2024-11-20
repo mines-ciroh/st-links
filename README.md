@@ -1,7 +1,8 @@
 # st-links
 Collection of public links (data products, code, and publications) from the stream temperature project.
 
-- TempEst 2 Daily Stream Temperature Estimation for the CONUSL
+- TempEst 2 Daily Stream Temperature Estimation for the CONUS:
+  - (paper in review)
   - Code: https://github.com/mines-ciroh/TempEst2
   - Data: http://www.hydroshare.org/resource/a8b243957f7946e388d10ab206990675
 - "Three-Sine" Stream Temperature Seasonality Analysis:
